@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6788ff5.chunk.css",
-    "main.js": "/static/js/main.f2164e0b.chunk.js",
-    "main.js.map": "/static/js/main.f2164e0b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3a8fcfcd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3a8fcfcd.js.map",
-    "static/js/2.4c61a1a6.chunk.js": "/static/js/2.4c61a1a6.chunk.js",
-    "static/js/2.4c61a1a6.chunk.js.map": "/static/js/2.4c61a1a6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6a48cf580ed85b99ba86921d2273b9c7.js": "/precache-manifest.6a48cf580ed85b99ba86921d2273b9c7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d6788ff5.chunk.css.map": "/static/css/main.d6788ff5.chunk.css.map",
+    "main.css": "https://jadson179.github.io/codiv/build/static/css/main.d6788ff5.chunk.css",
+    "main.js": "https://jadson179.github.io/codiv/build/static/js/main.f2164e0b.chunk.js",
+    "main.js.map": "https://jadson179.github.io/codiv/build/static/js/main.f2164e0b.chunk.js.map",
+    "runtime-main.js": "https://jadson179.github.io/codiv/build/static/js/runtime-main.3a8fcfcd.js",
+    "runtime-main.js.map": "https://jadson179.github.io/codiv/build/static/js/runtime-main.3a8fcfcd.js.map",
+    "static/js/2.4c61a1a6.chunk.js": "https://jadson179.github.io/codiv/build/static/js/2.4c61a1a6.chunk.js",
+    "static/js/2.4c61a1a6.chunk.js.map": "https://jadson179.github.io/codiv/build/static/js/2.4c61a1a6.chunk.js.map",
+    "index.html": "https://jadson179.github.io/codiv/build/index.html",
+    "precache-manifest.6a48cf580ed85b99ba86921d2273b9c7.js": "https://jadson179.github.io/codiv/build/precache-manifest.6a48cf580ed85b99ba86921d2273b9c7.js",
+    "service-worker.js": "https://jadson179.github.io/codiv/build/service-worker.js",
+    "static/css/main.d6788ff5.chunk.css.map": "https://jadson179.github.io/codiv/build/static/css/main.d6788ff5.chunk.css.map",
     "static/js/2.4c61a1a6.chunk.js.LICENSE.txt": "/static/js/2.4c61a1a6.chunk.js.LICENSE.txt",
-    "static/media/github.svg": "/static/media/github.3ee1f405.svg",
-    "static/media/logo.svg": "/static/media/logo.2f4f94c7.svg"
+    "static/media/github.svg": "https://jadson179.github.io/codiv/build/static/media/github.3ee1f405.svg",
+    "static/media/logo.svg": "https://jadson179.github.io/codiv/build/static/media/logo.2f4f94c7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a8fcfcd.js",
-    "static/js/2.4c61a1a6.chunk.js",
-    "static/css/main.d6788ff5.chunk.css",
-    "static/js/main.f2164e0b.chunk.js"
+    "https://jadson179.github.io/codiv/buildstatic/js/runtime-main.3a8fcfcd.js",
+    "https://jadson179.github.io/codiv/buildstatic/js/2.4c61a1a6.chunk.js",
+    "https://jadson179.github.io/codiv/buildstatic/css/main.d6788ff5.chunk.css",
+    "https://jadson179.github.io/codiv/buildstatic/js/main.f2164e0b.chunk.js"
   ]
 }
